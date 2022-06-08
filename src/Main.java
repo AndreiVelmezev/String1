@@ -12,8 +12,8 @@ public class Main {
         System.out.println("Employee's full name data for filling out the report - "+fullName2);
 
         System.out.println("Task 3");
-        fullName ="Ivanov Semyon Semyonovich";
-        String fullNameReplace =fullName.replace('o','e');
+        fullName ="Ivanov Simen Simenovich";
+        String fullNameReplace =fullName.replace('i','e');
         System.out.println("Employee's full name data - "+fullNameReplace );
 
 
